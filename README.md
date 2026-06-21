@@ -26,6 +26,8 @@ A Streamlit application that analyzes resumes and calculates ATS scores.
 pip install -r requirements.txt
 streamlit run app.py
 ```
+## Live Demo
+https://ats-resume-analyzer-9miyyvyjwqxn9e2v9bceke.streamlit.app/
 
 ## Author
 
